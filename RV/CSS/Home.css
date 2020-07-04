@@ -1,0 +1,14 @@
+a{
+	text-decoration: none;
+	color: white;
+	margin:1%;
+	padding:1%;
+	position: top 10px relative;
+}
+body{
+	background-color: black;
+}
+a:hover{
+	transition: 1s ease;
+	color: red;
+}
