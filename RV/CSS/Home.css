@@ -6,7 +6,7 @@ h1{
 	color: 	#da2439;
 	text-align: center;
 	margin:1%;
-	font-size:300%;
+	font-size: 400%;
 	margin-bottom: 1.4%;
 }
 a{
@@ -14,14 +14,14 @@ a{
 }
 
 nav a{
-	width: 12%;
+	box-sizing: border-box;
+	width: 14%;
 	display: inline-block;
 	color: black;
-	
 	margin-top: 0.5%;
 	margin-bottom: 0.5%;
-	padding-right: 2%;
-	padding-left: 2%;
+	padding-right: 1%;
+	padding-left: 1%;
 	position: top 10px relative;
 	font-size: 180%;
 	text-align: center;
