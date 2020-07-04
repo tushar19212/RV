@@ -1,4 +1,9 @@
+nav{
+	width: 100%;
+}
 a{
+	width: 12%;
+	display: inline-block;
 	text-decoration: none;
 	color: white;
 	margin:1%;
