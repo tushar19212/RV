@@ -15,13 +15,13 @@ a{
 
 nav a{
 	box-sizing: border-box;
-	width: 14%;
+	width: 16%;
 	display: inline-block;
 	color: black;
 	margin-top: 0.5%;
 	margin-bottom: 0.5%;
-	padding-right: 1%;
-	padding-left: 1%;
+/* 	padding-right: 1%;
+	padding-left: 1%; */
 	position: top 10px relative;
 	font-size: 180%;
 	text-align: center;
